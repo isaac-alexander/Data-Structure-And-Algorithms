@@ -1,0 +1,6 @@
+Arrays are used to store list of items. They get stored in sequentially in memory
+
+Arrays are static
+ Lookup O(1)
+ Insert O(n)
+ Delete O(n)

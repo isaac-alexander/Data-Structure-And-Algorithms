@@ -1,0 +1,16 @@
+LinkedList are used to store a list of object in sequence, they can grow and shrink
+automatically
+
+Look Up
+By Value - O(n)
+By Index - O(n)
+
+Insert
+At the Beginning - O(1)
+At the End - O(1)
+At the Middle - 0(n)
+
+Delete
+From the Beginning - 0(1)
+From the End - O(n)
+From the Middle - O(n)

@@ -1,0 +1,11 @@
+Big O notation is a mathematical notation that describes the limiting behaviour
+of a function when the argument tends towards a particular value or infinity.
+
+We use Big O to describe the performance of an algorithm
+
+System.out.println(numbers[0]); runs in O(1) - constant time of 1
+Simple Loops runs in O(n) - the run time increases linearly
+A nested Loop runs in O(n^2) O of n squared
+
+An algorithm that runs in logarithmic time is more efficient and more scalable
+than an algorithm that runs in linear or quadratic time

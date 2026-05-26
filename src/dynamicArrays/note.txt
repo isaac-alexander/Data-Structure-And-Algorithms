@@ -1,0 +1,3 @@
+Vector class grows by 100% of it size when it gets full - synchronised/ single thread
+
+ArrayList grows by 50% of its size - not synchronized
